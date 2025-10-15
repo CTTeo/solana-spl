@@ -1,0 +1,10 @@
+{
+  "name": "My USDT",
+  "symbol": "USDT",
+  "description": "A dev/test USDC SPL token on Solana",
+  "image": "https://example.com/my-token-image.png",
+  "extensions": {
+    "website": "https://www.euge.io",
+    "twitter": "https://x.com/ttffrun"
+  }
+}
